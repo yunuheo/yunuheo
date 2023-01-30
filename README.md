@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My father is also programmer!
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunuheo's&show_icons=true&theme=merko)
-
 <br><br><br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -27,17 +25,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
 </p>
 
 <br><br>
 <h3 align="center">🐢  About Me 🐢</h3>
 <p align="center">
-  <a href="https://yunuheo.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://dltjrals2.github.io/"/></a>&nbsp
+  <a href="https://velog.io/@hyoon516"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://dltjrals2.github.io/"/></a>&nbsp
   <a href="mailto:gjdbs30@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=boulah1023@gmail.com"/></a>
 </p>
 <br>
