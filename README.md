@@ -9,6 +9,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hyoon516@naver.com
 - ⚡ Fun fact: My father is also programmer!
 -->
+
+<div align=center>
+<!--소개-->
+## Introduction :raised_hands:
+Hi, I am trying to become a nice developer😎
+</div>
+
+<br/><br/>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
