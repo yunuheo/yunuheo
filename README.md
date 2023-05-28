@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 
 <!--소개-->
-<h3 align="center">Introduction :raised_hands:</h3>
+<h3 align="center">:raised_hands: Introduction :raised_hands:</h3>
+<br>
 <div align=center>
 Hi, I am trying to become a nice developer😎
 </div>
