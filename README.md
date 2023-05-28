@@ -10,9 +10,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My father is also programmer!
 -->
 
-<div align=center>
+
 <!--소개-->
-## Introduction :raised_hands:
+<h3 align="center">Introduction :raised_hands:</h3>
+<div align=center>
 Hi, I am trying to become a nice developer😎
 </div>
 
