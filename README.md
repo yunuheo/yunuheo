@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Kangwon National University
+- 🔭 I’m currently studing on Kangwon National University
 - 🌱 I’m currently learning Java and python
 - 💬 Ask me about anything
 - 📫 How to reach me: hyoon516@naver.com
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h3 align="center">:raised_hands: Introduction :raised_hands:</h3>
 <br>
 <div align=center>
-😎Hi, I am trying to become a nice backend developer😎
+😎Hi, I am trying to become a great backend developer😎
 </div>
 
 <br/><br/>
